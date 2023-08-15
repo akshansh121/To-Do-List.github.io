@@ -107,13 +107,13 @@ html {
       background: #edeef0;
   }
 
-  @media screen and (max-width: 415px)
+  @media screen and (max-width: 500px)
 {
     .todo{
         width: 100%;
-        max-width: 540px;
+        max-width: 415px;
         background-color: white;
-        /* margin: 100px auto 20px; */
+        margin: 10px auto 5px;
         /* padding: 40px 30px 70px; */
         border-radius: 10px;
     }
