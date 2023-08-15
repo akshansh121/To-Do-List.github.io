@@ -23,7 +23,7 @@ html {
       margin: 100px auto 20px;
       padding: 40px 30px 70px;
       border-radius: 10px;
-      border: 2px solid rgb(206, 11, 11);
+      /* border: 2px solid rgb(206, 11, 11); */
       box-shadow: 0 2rem 3rem rgba(0, 0, 0, 0.4);
   }
   .todo h2{
